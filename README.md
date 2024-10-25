@@ -14,6 +14,9 @@ This analysis focuses on answering the following critical business questions:
 3. **First Purchase Insight:** What was the first product purchased by each customer?
 4. **Top-Selling Products:** What is the most purchased item on the menu, and how many times was it purchased by all customers?
 5. **Customer Preferences:** Which item is the most popular among each individual customer?
+6. **Membership Insights:** Which items were purchased first by the customer after they become a gold members?
+7. Which items were purchased before the customer became a gold member?
+8. What is the total orders and total amount spent for each member before they become a member?
 
 ## Skills Demonstrated
 
